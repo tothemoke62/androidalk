@@ -1,17 +1,2 @@
 <resources>
-    <string name="app_name">Menu</string>
-    <string name="menu_amp_tervez"><![CDATA[Menu & Tervező]]></string>
-    <string name="trend_s_bev_s_rl_lista_tervez_a_kiv_lasztott_telek_s_l_tsz_m_alapj_n">étrend- és bevásárlólista-tervező a kiválasztott ételek és létszám alapján</string>
-    <string name="trendtervez">Étrendtervező</string>
-    <string name="v_lasz_nap_h_t_h_nap_add_meg_h_ny_f_ll_tsd_ssze_a_men_t">válasz(nap/hét/hónap), add meg hány fő. állítsd össze a menüt</string>
-    <string name="megnyit_s">megnyitás</string>
-    <string name="bev_s_rl_lista">Bevásárlólista</string>
-    <string name="a_tervez_b_l_gener_lt_boltok_szerint_csoportos_tott_bev_s_rl_lista">a tervezőből generált, boltok szerint csoportosított bevásárlólista</string>
-    <string name="megnyit_s2">megnyitás</string>
-    <string name="_1_kg_dar_lt_h_s_bolognai_fas_rt">1 kg Darált hús (Bolognai + Fasírt)</string>
-    <string name="t_rl_s">Törlés</string>
-    <string name="h_tf">HÉTFŐ</string>
-    <string name="eb_d">Ebéd:</string>
-    <string name="f_oldal">Főoldal</string>
-    <string name="tervez">Tervező</string>
 </resources>
