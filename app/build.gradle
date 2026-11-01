@@ -3,6 +3,10 @@ plugins {
 }
 
 android {
+    namespace 'com.example.menu'
+    buildFeatures {
+        viewBinding true
+    }
     compileSdk {
         version = release(37)
     }
@@ -23,6 +27,8 @@ android {
             }
         }
     }
+
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
@@ -32,4 +38,7 @@ android {
 dependencies {
     implementation libs.material
     implementation 'com.github.bumptech.glide:glide:4.16.0'
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
 }

@@ -8,6 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.menu.R;
+
+
 /**
  * A simple {@link Fragment} subclass.
  * Use the {@link dialog_recipe_edit#newInstance} factory method to

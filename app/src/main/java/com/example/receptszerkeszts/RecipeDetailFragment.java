@@ -16,6 +16,8 @@ import androidx.annotation.Nullable;
 import android.widget.EditText;
 import androidx.appcompat.app.AlertDialog;
 import com.bumptech.glide.Glide;
+import com.example.menu.R;
+
 
 public class RecipeDetailFragment extends Fragment {
 

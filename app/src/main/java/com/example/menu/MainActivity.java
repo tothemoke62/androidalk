@@ -1,9 +1,15 @@
 package com.example.menu;
 
 import android.os.Bundle;
+import android.widget.ScrollView;
+import android.widget.TextView;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import com.example.menu.databinding.ActivityMainBinding;
+
+import java.io.PrintWriter;
+import java.io.StringWriter;
 
 public class MainActivity extends AppCompatActivity {
 
